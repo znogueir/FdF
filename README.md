@@ -1,5 +1,5 @@
-# 42-FdF
-#### A 42 School project
+# FdF
+A 42 School project
 <br>
 
 Goal(s) : 
